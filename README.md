@@ -91,4 +91,3 @@ Future Work:
 Predictive Modeling: Build models that leverage historical data to predict future terrorist activities.
 Real-Time Dashboards: Develop interactive dashboards for stakeholders, showing real-time trends in global terrorism.
 Deep Dive into Specific Regions: Explore factors contributing to high terrorism rates in specific regions for targeted interventions.
-This project demonstrates a thorough analysis of historical terrorism data, from initial exploration to actionable insights, making it a valuable addition to your portfolio. Feel free to expand on any of the points above to highlight specific skills or tools you used in each step.
