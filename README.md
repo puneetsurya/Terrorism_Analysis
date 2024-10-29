@@ -2,7 +2,7 @@
 
 #Terrorism Analysis Project
 
-##Objective:
+Objective:
 
 The primary goal of this project was to analyze global terrorism data to understand trends, patterns, and regional differences in terrorist activities. Through this analysis, we aimed to answer several key questions:
 
